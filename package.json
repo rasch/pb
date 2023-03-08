@@ -1,0 +1,25 @@
+{
+  "name": "@rasch/pb",
+  "version": "0.1.0",
+  "description": "share [encrypted] files using 0x0.st",
+  "type": "module",
+  "bin": {
+    "pb": "pb.sh"
+  },
+  "files": [
+    "pb.sh"
+  ],
+  "keywords": [
+    "paste",
+    "pastebin",
+    "0x0.st",
+    "share",
+    "upload"
+  ],
+  "author": "Randy Schneck <i@rasch.co>",
+  "license": "0BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rasch/pb.git"
+  }
+}
